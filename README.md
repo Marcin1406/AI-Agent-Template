@@ -10,7 +10,7 @@ Metodologia: **VGM AI Agent Hub** (Mateusz Wapa).
 Struktura plików i folderów która pozwala zbudować wieloagentowy system AI do automatyzacji dowolnego procesu biznesowego. Jeden template — nieskończenie wiele zastosowań.
 
 **Przykłady projektów zbudowanych na tym szkielecie:**
-- Automatyzacja Print on Demand (sprzedaż na 5 platformach)
+- [**POD-Agent**](https://github.com/Marcin1406/POD-Agent) — automatyzacja Print on Demand (7 agentów, 5 platform, Telegram bot, Stability AI)
 - Agencja contentowa (research → pisanie → publikacja)
 - Obsługa klienta (triaging → odpowiedź → eskalacja)
 - Analiza inwestycyjna (screening → fundamenty → ryzyko → decyzja)

@@ -1,0 +1,28 @@
+# Konfiguracja z kluczami API i hasłami — nigdy nie wgrywaj do repo
+config/credentials.json
+config/*.json
+!config/*.template.json
+
+# Środowisko Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Logi i outputy runtime
+automation/logs/
+automation/screenshots/
+automation/ready_images/
+automation/config/chrome_profile/
+
+# Pliki tymczasowe systemu
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Foldery robocze (runtime)
+review/
+designs/
+output/
